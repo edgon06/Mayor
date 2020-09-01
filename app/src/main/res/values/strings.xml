@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Mayor</string>
+    <string name="spaceHolderEdad">Introduzca su edad.</string>
+    <string name="spaceHolderNombre">Introduzca su nombre.</string>
+    <string name="mensajeMayor">es mayor de edad.</string>
+    <string name="mensajeMenor">es menor de edad.</string>
+    <string name="boton">Verificar</string>
+    <string name="error">Asegurese de que el valor es un número.</string>
+    <string name="fueraDeRango">Valor introducido no válido: inserte un número entre el 1 y el 120.</string>
+    <string name="nombreVacio">No debería dejar el nombre en blanco.</string>
+
+
+</resources>
